@@ -1,0 +1,10 @@
+X:\VS\repos\rec\rec\bin\x64\Debug\rec.exe.config
+X:\VS\repos\rec\rec\bin\x64\Debug\rec.exe
+X:\VS\repos\rec\rec\bin\x64\Debug\rec.pdb
+X:\VS\repos\rec\rec\bin\x64\Debug\ScreenRecorderLib.dll
+X:\VS\repos\rec\rec\bin\x64\Debug\ScreenRecorderLib.xml
+X:\VS\repos\rec\rec\obj\x64\Debug\rec.csproj.AssemblyReference.cache
+X:\VS\repos\rec\rec\obj\x64\Debug\rec.csproj.CoreCompileInputs.cache
+X:\VS\repos\rec\rec\obj\x64\Debug\rec.csproj.Up2Date
+X:\VS\repos\rec\rec\obj\x64\Debug\rec.exe
+X:\VS\repos\rec\rec\obj\x64\Debug\rec.pdb
